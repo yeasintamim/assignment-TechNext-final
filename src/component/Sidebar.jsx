@@ -15,7 +15,7 @@ import { SideItem } from "./SidebarInfo";
 
 export const Sidebar = () => {
     return(
-        <div className="sidebar col-2" >
+        <div className="sidebar" >
           <div className="a mx-2 p-2 pt-0 sidebar-menu">
               <IoMenuOutline/>
           </div>
